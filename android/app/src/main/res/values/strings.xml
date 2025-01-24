@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">water-reminder</string>
+    <string name="title_activity_main">water-reminder</string>
+    <string name="package_name">com.goulven.water</string>
+    <string name="custom_url_scheme">com.goulven.water</string>
+</resources>
