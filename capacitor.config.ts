@@ -5,7 +5,8 @@ const config: CapacitorConfig = {
   appName: 'water-reminder',
   webDir: 'build',
   server: {
-    androidScheme: 'https'
+    androidScheme: 'https',
+    cleartext: false
   }
 };
 
